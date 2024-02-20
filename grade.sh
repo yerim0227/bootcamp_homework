@@ -44,9 +44,9 @@ function c_result() {
 }
 
 
-for index_of_problem in {1..1}
+for index_of_problem in {1..9}
 do
-    for index_of_answer in {1..2}
+    for index_of_answer in {1..5}
     do
         input_file=$DIR_PATH/answer/$index_of_problem/in$index_of_answer.txt
         output_file=$DIR_PATH/answer/$index_of_problem/out$index_of_answer.txt
