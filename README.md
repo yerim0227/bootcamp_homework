@@ -23,11 +23,11 @@
 
 1. 상단의 `Use this template` 을 클릭해 repository를 생성합니다.
     - Owner : 개인 계정
-    - Repository: 원하는 repository 이름
+    - Repository: haedal_bootcamp_division_homework
     - **Public 설정 (Private 설정 시 과제 확인이 불가능합니다.)**
-2. `git bash`를 열어서 방금 생성한 repository를 clone합니다.
+2. **git bash**를 열어서 방금 생성한 repository를 clone합니다.
     ```bash
-    git clone https://github.com/{{본인의 깃허브 ID}}/{{repository 이름}}.git
+    git clone https://github.com/{{본인의 깃허브 ID}}/haedal_bootcamp_division_homework.git
     ```
 3. [주의 사항](#🚨-주의-사항)을 지키며 문제를 풉니다. 
 4. 본인이 선택한 언어로 [문제](./docs/problems.md)들을 풉니다.
@@ -37,5 +37,11 @@
 1. 파일 이름을 변경하면 안 됩니다.
 2. 기존에 생성된 파일 안의 `main` 함수 내용만 작성하시면 됩니다.
 3. 결과를 출력할 때 오타 및 띄어쓰기, 들여쓰기(엔터)를 주의해주세요.
+
+## 🧱 문제를 풀다가 막혔을 때
+
+문제를 풀다보면 어디서부터 손을 대야할지, 무엇을 모르는 지 몰라서 검색을 못 할 때가 있습니다.
+
+그럴 땐 얼마든지 **동아리방**이나 **디스코드**에서 편하게 질문하세요!
 
 ## [📖 과제 확인](./docs/problems.md)
