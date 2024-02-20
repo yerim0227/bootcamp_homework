@@ -21,7 +21,7 @@
 
 ## ⚙️ 진행과정
 
-1. 상단의 `Use this template` 을 클릭해 repository를 생성합니다.
+1. 상단의 `Use this template`-`Create a new repository` 버튼을 클릭해 repository를 생성합니다.
     - Owner : 개인 계정
     - Repository: haedal_bootcamp_division_homework
     - **Public 설정 (Private 설정 시 과제 확인이 불가능합니다.)**
