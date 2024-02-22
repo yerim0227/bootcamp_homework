@@ -14,7 +14,9 @@
 
 ## [📖 과제 확인](./docs/problems.md)
 
-`C` 혹은 `Python` 둘 중 하나를 선택해 문제를 풀면 됩니다. 총 9개의 문제로 구성되어 있으며 repository에 push 하실 경우, 자동으로 채점이 진행됩니다.
+`C` 혹은 `Python` 둘 중 하나를 선택해 문제를 풀면 됩니다. 
+
+총 9개의 문제로 구성되어 있으며 repository에 push 하실 경우, 자동으로 채점이 진행됩니다.
 
 오류 및 문의사항은 **디스코드**에 남겨주시면 됩니다. 이슈 또한 환영합니다!
 
@@ -42,14 +44,17 @@ commit message를 작성할 때, 원하는 언어를 포함하면 됩니다.
     - Owner : 개인 계정
     - Repository: haedal_bootcamp_division_homework
     - **Public 설정 (Private 설정 시 과제 확인이 불가능합니다.)**
-2. **git bash**를 열어서 방금 생성한 repository를 clone합니다.
+1. **git bash**를 열어서 방금 생성한 repository를 clone합니다.
     ```bash
     git clone https://github.com/{{본인의 깃허브 ID}}/haedal_bootcamp_division_homework.git
+    ```
+1. clone한 repository를 Visual Studio Code로 열어줍니다.
+    ```bash
     cd haedal_bootcamp_division_homework
     code .
     ```
-3. [주의 사항](#🚨-주의-사항)을 지키며 문제를 풉니다. 
-4. 본인이 선택한 언어로 [문제](./docs/problems.md)들을 풉니다.
+1. [주의 사항](#🚨-주의-사항)을 지키며 문제를 풉니다. 
+1. 본인이 선택한 언어로 [문제](./docs/problems.md)들을 풉니다.
 
 ## 🚨 주의 사항
 
