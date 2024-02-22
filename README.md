@@ -33,14 +33,17 @@
     - Owner : 개인 계정
     - Repository: haedal_bootcamp_division_homework
     - **Public 설정 (Private 설정 시 과제 확인이 불가능합니다.)**
-2. **git bash**를 열어서 방금 생성한 repository를 clone합니다.
+1. **git bash**를 열어서 방금 생성한 repository를 clone합니다.
     ```bash
     git clone https://github.com/{{본인의 깃허브 ID}}/haedal_bootcamp_division_homework.git
+    ```
+1. clone한 repository를 Visual Studio Code로 열어줍니다.
+    ```bash
     cd haedal_bootcamp_division_homework
     code .
     ```
-3. [주의 사항](#🚨-주의-사항)을 지키며 문제를 풉니다. 
-4. 본인이 선택한 언어로 [문제](./docs/problems.md)들을 풉니다.
+1. [주의 사항](#🚨-주의-사항)을 지키며 문제를 풉니다. 
+1. 본인이 선택한 언어로 [문제](./docs/problems.md)들을 풉니다.
 
 ## 🚨 주의 사항
 
