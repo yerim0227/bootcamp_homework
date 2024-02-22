@@ -1,4 +1,5 @@
-name: 채점
+name: 해달 부트캠프 0주차 과제 채점
+run-name: 채점 결과 - ${{ github.event.head_commit.timestamp }}
 
 on:
   push:
@@ -6,6 +7,7 @@ on:
 
 jobs:
   python:
+    if: ${{ contains(github.event.head_commit.message, 'python') }}
     runs-on: ubuntu-latest
     steps:
       - name: 브랜치 가져오기
@@ -21,8 +23,8 @@ jobs:
       
       - name: 파이썬 채점 시작
         run: ./grade.sh
-  
   c:
+    if: ${{ contains(github.event.head_commit.message, 'c') }}
     runs-on: ubuntu-latest
     steps:
       - name: 브랜치 가져오기
