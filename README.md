@@ -42,10 +42,10 @@ commit message를 작성할 때, 원하는 언어를 포함하면 됩니다.
 
 1. 상단의 [`Fork`](https://github.com/KNU-HAEDAL/bootcamp_division_homework/fork) 버튼을 클릭해 repository를 생성합니다.
     - Owner : 개인 계정
-    - Repository: haedal_bootcamp_division_homework
+    - Repository name: 원하는 repository 이름
 1. **git bash**를 열어서 방금 생성한 repository를 clone합니다.
     ```bash
-    git clone https://github.com/{{본인의 깃허브 ID}}/haedal_bootcamp_division_homework.git
+    git clone https://github.com/{{Owner}}/{{Repository name}}.git
     ```
 1. clone한 repository를 Visual Studio Code로 열어줍니다.
     ```bash
