@@ -8,7 +8,7 @@
 
 > [!IMPORTANT]
 >
-> 템플릿을 복제한 후, README 페이지를 자유롭게 수정해서 사용하셔도 됩니다.
+> fork한 후, README 페이지를 자유롭게 수정해서 사용하셔도 됩니다.
 >
 > Github는 **포트폴리오**로 사용되는 만큼 깔끔하고 꾸준하게 관리하는 것이 좋습니다.
 
@@ -40,10 +40,9 @@ commit message를 작성할 때, 원하는 언어를 포함하면 됩니다.
 
 ## ⚙️ 진행과정
 
-1. 상단의 `Use this template`-`Create a new repository` 버튼을 클릭해 repository를 생성합니다.
+1. 상단의 [`Fork`](https://github.com/KNU-HAEDAL/bootcamp_division_homework/fork) 버튼을 클릭해 repository를 생성합니다.
     - Owner : 개인 계정
     - Repository: haedal_bootcamp_division_homework
-    - **Public 설정 (Private 설정 시 과제 확인이 불가능합니다.)**
 1. **git bash**를 열어서 방금 생성한 repository를 clone합니다.
     ```bash
     git clone https://github.com/{{본인의 깃허브 ID}}/haedal_bootcamp_division_homework.git
