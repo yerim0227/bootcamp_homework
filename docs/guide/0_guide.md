@@ -11,7 +11,7 @@
 ## 목차
 
 1. [github fork](./1_github_fork.md)
-1. [준비물 설치하기](./2_install_requirements.md)
+1. [준비물 설치하기](./2_0_install_requirements.md)
 1. [git clone](./3_git_clone.md)
 1. [문제 풀기](./4_solve_problem.md)
 1. [채점](./5_marking.md)
