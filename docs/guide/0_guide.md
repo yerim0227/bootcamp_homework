@@ -20,4 +20,14 @@
 
 - 포크 (fork)
 
+- 비쥬얼 스튜디오 코드 (visual studio code, vscode)
+
+- gcc
+
+- python
+
+- 환경 변수
+
+- 클론 (git clone)
+
 - 
