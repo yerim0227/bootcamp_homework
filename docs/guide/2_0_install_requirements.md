@@ -21,6 +21,7 @@
 1. [1-B Python](#1-b-python)
 1. [2. Git](#2-git)
 1. [3. Visual Studio Code](#3-visual-studio-code)
+1. [3-B VSCode Extension](#4-3-b-vscode-extension)
 
 ## 1-A. [GCC](https://sourceforge.net/projects/mingw/)
 
@@ -125,3 +126,7 @@
 ## 3. [Visual Studio Code](https://code.visualstudio.com/)
 
 내용이 너무 많아 별도의 페이지로 분리하겠습니다. [여기](./2_1_visual_studio_code.md)를 누르면 이동합니다.
+
+## 4. [3-B VSCode Extension](./2_2_visual_studio_code_extension.md)
+
+내용이 너무 많아 별도의 페이지로 분리하겠습니다. [여기](./2_2_visual_studio_code_extension.md)를 누르면 이동합니다.
