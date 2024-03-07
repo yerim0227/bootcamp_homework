@@ -8,8 +8,6 @@
 
 그럴 땐 얼마든지 **동아리방**이나 **디스코드**에서 편하게 질문하세요!
 
-
-
 1. `Fork` 버튼을 클릭합니다.
 
     ![fork button click](../assets/1-1.png)
@@ -21,13 +19,3 @@
 1. 아래 화면이 나오면 fork 중이니 대기합니다.
 
     ![wait for having done fork](../assets/1-3.png)
-
-1. `Actions` 탭을 클릭 한 뒤, `I understand my workflows, go ahead and enable them` 버튼을 클릭합니다.
-
-    ![Actions button click](../assets/1-4.png)
-
-    ![agree to actions rule](../assets/1-5.png)
-
-1. 아래 화면이 나오면 성공입니다!
-
-    ![actions](../assets/1-6.png)

@@ -10,9 +10,12 @@
 
 ## 목차
 
-1. [github fork](./1_github_fork.md)
-1. [준비물 설치하기](./2_0_install_requirements.md)
-1. [git clone](./3_git_clone.md)
-1. [문제 풀기](./4_solve_problem.md)
-1. [채점](./5_marking.md)
-1. [git push](./6_git_push.md)
+1. [1-0. github fork](./1_github_fork.md)
+1. [1-1. github action](./1_1_actions_agree.md)
+1. [2-0. 준비물 설치하기](./2_0_install_requirements.md)
+1. [2-1. Visual Studio 설치](./2_1_visual_studio_code.md)
+1. [2-2. Visual Studio Extension 설치](./2_2_visual_studio_code_extension.md)
+1. [3. git clone](./3_git_clone.md)
+1. [4. 문제 풀기](./4_solve_problem.md)
+1. [5. 채점](./5_marking.md)
+1. [6. git push](./6_git_push.md)

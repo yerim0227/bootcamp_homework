@@ -8,6 +8,11 @@
 
 그럴 땐 얼마든지 **동아리방**이나 **디스코드**에서 편하게 질문하세요!
 
+## 목차
+
+1. C의 경우
+1. Python의 경우
+
 ## 1. C의 경우
 
 1. `git graph` 탭을 클릭합니다.
@@ -25,7 +30,7 @@
     ![yes](../assets/6-3.png)
 
 1. Github repository에 접속한 뒤, `Actions` 탭을 클릭합니다.
-    
+
     아래와 같이 채점이 진행되며 모든 문제를 풀었을 경우 **체크표시**가 됩니다.
 
     ![test pass](../assets/6-4.png)
@@ -47,7 +52,7 @@
     ![yes](../assets/6-3.png)
 
 1. Github repository에 접속한 뒤, `Actions` 탭을 클릭합니다.
-    
+
     아래와 같이 채점이 진행되며 모든 문제를 풀었을 경우 **체크표시**가 됩니다.
 
     ![test pass](../assets/6-4.png)
