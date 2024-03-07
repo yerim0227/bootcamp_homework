@@ -10,7 +10,7 @@
 
 ## 목차
 
-1. [1-0. github fork](./1_github_fork.md)
+1. [1-0. github fork](./1_0_github_fork.md)
 1. [1-1. github action](./1_1_actions_agree.md)
 1. [2-0. 준비물 설치하기](./2_0_install_requirements.md)
 1. [2-1. Visual Studio 설치](./2_1_visual_studio_code.md)
