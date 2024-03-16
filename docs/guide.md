@@ -34,7 +34,15 @@
 
    ![actions](./assets/1-6.png)
 
-## 3. Visual Studio Code 설치
+## 3. Git 설치
+
+1. [Git](https://git-scm.com/) 페이지에서 `Download for XXX` 버튼을 클릭합니다.
+
+   ![git download](./assets/2-14.png)
+
+1. 별도 설정없이 설치하면 됩니다.
+
+## 4. Visual Studio Code 설치
 
 ### 1. Visual Studio Code 다운로드
 
@@ -88,7 +96,7 @@
 
    ![vscode_install_mac_2](https://github.com/KNU-HAEDAL/bootcamp_division_homework/assets/138651699/75bb0948-40d0-45ce-a57f-9308a66cf96a)
 
-## 4. Visual Studio Code Extension 설치
+## 5. Visual Studio Code Extension 설치
 
 Extension 이름과 제공자를 확인하고 설치하세요.
 
@@ -123,9 +131,9 @@ Extension 이름과 제공자를 확인하고 설치하세요.
 
    ![Python](./assets/2-18.png)
 
-## 5. Visual Studio Code Extension 설정
+## 6. Visual Studio Code Extension 설정
 
-## 1. 기본 Terminal 설정 (git bash)
+### 1. 기본 Terminal 설정 (git bash)
 
 1. `ctrl + shift + p` 입력한 뒤, `terminal default`를 입력하면 아래와 같이 뜹니다.
 
@@ -139,7 +147,7 @@ Extension 이름과 제공자를 확인하고 설치하세요.
 
    ![git bash](./assets/2-20.png)
 
-## 2. Code Runner 설정
+### 2. Code Runner 설정
 
 1. `Extension` 탭에서 Code Runner 우측 하단 톱니바퀴를 클릭 - `Extension Settings`을 클릭합니다.
 
@@ -150,14 +158,6 @@ Extension 이름과 제공자를 확인하고 설치하세요.
 1. 1번과 마찬가지로 `Terminal Root` 를 찾아 `/`를 입력합니다.
 
    ![Terminal Root](./assets/2-22.png)
-
-## 6. Git 설치
-
-1. [Git](https://git-scm.com/) 페이지에서 `Download for XXX` 버튼을 클릭합니다.
-
-   ![git download](./assets/2-14.png)
-
-1. 별도 설정없이 설치하면 됩니다.
 
 ## 7-A. GCC 설치
 
