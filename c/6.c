@@ -8,5 +8,12 @@
 int main() {
     // 이곳에 코드를 작성해주세요!
 
+    char alp;
+    scanf("%c", &alp);
+    if(alp=='a' || alp=='e' || alp=='i' || alp=='o' || alp=='u')
+        printf("O\n");
+    else
+        printf("X\n");
+
     return 0;
 }
